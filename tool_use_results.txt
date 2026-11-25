@@ -1,0 +1,64 @@
+# Step 6.4 – Comparing Answers With and Without Executed Code
+
+Model used: ChatGPT
+
+## Test 1 – Without code or external tools
+
+Prompt:
+
+Answer the following questions without using code or external tools.
+
+1. Which decimal is larger, 9.11 or 9.9?
+2. How many r's are in the word strawberry?
+3. Extract every third character of Ubiquitous, starting with the first character.
+
+Output:
+
+1. 9.9
+2. 3
+3. Uqts
+
+## Test 2 – Using executed Python code
+
+Prompt:
+
+Use Python code and actually execute it to answer the following questions. Show the Python code and its output.
+
+1. Which decimal is larger, 9.11 or 9.9?
+2. How many r's are in the word strawberry?
+3. Extract every third character of Ubiquitous, starting with the first character.
+
+Python code:
+
+    print("1.", max(9.11, 9.9))
+    print("2.", "strawberry".count("r"))
+    print("3.", "Ubiquitous"[::3])
+
+Reported output:
+
+    1. 9.9
+    2. 3
+    3. Uqts
+
+The assistant reported that the Python code was successfully executed and all three answers were verified.
+
+## Comparison
+
+Question 1:
+Without code: 9.9
+With code: 9.9
+Result: Both correct.
+
+Question 2:
+Without code: 3
+With code: 3
+Result: Both correct.
+
+Question 3:
+Without code: Uqts
+With code: Uqts
+Result: Both correct.
+
+## Conclusion
+
+Both methods produced correct answers for all three questions. There was no difference in accuracy in this experiment. However, using executed Python code provides a more reliable and reproducible method for checking numerical comparisons, counting characters and extracting characters from text. This can be particularly useful in accounting and business tasks where accuracy is important.

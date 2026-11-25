@@ -1,0 +1,105 @@
+Model: HuggingFaceTB/SmolLM2-135M
+Mode: Completion
+
+Prompt: What is 2+2?
+
+Run 1:
+First, we will introduce the concept of addition. Addition is a mathematical operation that allows us to combine two or more quantities into one single number. For example, adding “five” and “seven” results in the value of five plus seven = 10. This concept has many applications throughout our lives, such as solving problems involving multiplication, calculating sales tax, or even estimating how much money you would need for something like a vacation!
+Next up, we will explore subtraction. Subtraction involves removing one quantity from another without affecting its original value. Let’s say you have ten apples and want to give one away. To do so, you could take out an apple by subtracting it from 10. This process works similarly when dealing with numbers too – sometimes we may subtract values rather than add them together.
+Now let's dive deeper into understanding fractions through real-life scenarios. Have you ever divided a pizza among friends during lunchtime? Or perhaps used a calculator to figure out if your sibling needed more cookies versus candy bars? Both situations involve dividing a whole number (like 5) into smaller parts called portions or equal amounts. By learning these concepts now, you become better equipped to handle various math challenges later on.
+Throughout
+
+Run 2: 
+What is 2+2? 3. We have to do two operations with a number, so we need to use the distributive property of addition and multiplication: 6 + 4 = ?? (a) 10 (b) 7 (c) 8 (d) 9
+What is 5-1/2?
+The first step is to multiply both sides by -1: 5x = -1
+Now subtract this from both sides (the left side): 5(-1) = -5 - 1
+Add these numbers: 5 - (-1) = 4
+Finally add the answers: 4 x 2 = 8
+Math Worksheets for Grade 4
+
+Run 3: 
+How do you subtract two numbers that have the same sign in them?
+2 + 3 = 5. If we add these numbers, then we get 6. This means we are subtracting a number from another number.
+When can I use subtraction with negative signs instead of addition and subtraction?
+
+
+Prompt 2: Here is my top 10 list of landmarks to see in Paris:
+
+Run 1:
+Here is my top 10 list of landmarks to see in Paris:
+
+the Eiffel Tower
+the Arc de Triomphe
+the Louvre
+the Eiffel Tower
+the Musée du Quai Branly
+the Palais Garnier
+the Louvre Museum
+the Champs-Elysées
+the Louvre
+the Eiffel Tower
+If you are interested, check out the video below!
+
+Check out this great article about the history and importance of the Eiffel Tower here.
+Pic courtesy: Wikipedia
+
+Run 2:
+Here is my top 10 list of landmarks to see in Paris:
+
+The Grand Palais (French: Grand Palais) is the grandest and most expensive building in Paris. It has over 25,000 rooms, more than 300,000 square feet of living space for guests, and hundreds of restaurants and cafes inside the building. The Louvre is one of the most famous museums in France.
+
+In English, this landmark is called the Louvre Museum or the Royal Palace. In French, it is known as Le Palais Royal. The buildings are made up of wood, stone, brick and marble; they have been built by Louis XIV between 1684 and 1715.
+
+Boulevard de l’École des Beaux-Arts (Beautiful Avenue of the Arts)
+
+This beautiful street runs from the Place de la Concorde to the Place de l’Orangerie and ends at the Place de la Bastille. It was named after the Academy of Fine Arts (Agence nationale des arts et métiers), founded in 1795 by Jean-Léon Gérôme. The street is very popular with tourists.
+
+Paris is a city that attracts people
+
+
+Run 3:
+Here is my top 10 list of landmarks to see in Paris:
+
+Paris is a city full of history, with the famous Montmartre area being one of its most popular tourist attractions. The Place de la Concorde, where the French Revolution took place, is a UNESCO World Heritage Site, as well as being the world’s second largest public park and host of numerous festivals.
+
+Rue de Rivoli (the “Riviera”)
+The Riviere de Rivoli was built by the Romans in the first century AD. It became the main thoroughfare for trade routes through the region from Italy and Gaul into France. The area has also been known as the “Tourist Quarter” due to its popularity among tourists.
+
+Place de la Concorde
+This is an iconic landmark of Paris. It is called the “Place du Chateau” because it contains the site of the historic city of Paris itself – a palace that is still standing today!
+
+Place de la Concorde (the “Chateau”)
+Also known as the “Château de Vincennes”, this is located at the intersection of Rue de la Concorde and Rue de Champs-Elysees. It is said that it was built during the reign
+
+Prompt an assistant
+
+Model: HuggingFaceTB/SmolLM2-135M
+Mode: Completion
+Prompt: Why is the sky blue?
+Speed: 46.15 tokens/sec (CPU)
+
+Output:Why is the sky blue? The answer to that question lies in something called Rayleigh scattering. When sunlight passes through Earth's atmosphere, some of it gets scattered by molecules and tiny particles like water droplets, ozone, or even dust particles. These smaller particles scatter more light than larger ones, so we see the sky as a bright white cloud instead of a blue one! Isn't science fascinating sometimes?! 😊
+
+Lesson 2: Exploring More About Earth's Atmosphere Now let me tell you about another cool aspect of our planet – its atmosphere. Did you know that each layer has unique properties affecting temperature, weather patterns, and visibility? Let's dive deeper into understanding these layers using simple terms and fun examples.
+
+Layer One - Stratosphere: Helped by ultraviolet rays from the sun, this zone protects us against harsh cosmic radiation while also cooling temperatures down near Earth's surface. It reaches around 30 km (about 19 miles) up until about 50 kilometers (46 miles). During winter months when temperatures drop below freezing point, people experience colder days due to reduced solar energy absorbed within stratospheric air.
+
+Layer Two - Mesosphere: Often referred to as 'the coldest region,' mesospehres cover approximately half of the Earth's distance
+
+Conversation-based prompt
+Model: HuggingFaceTB/SmolLM2-135M
+Mode: Completion
+Speed: 54.11 tokens/sec (CPU)
+
+Output:
+Comparison:
+
+When I asked the question directly, the base model
+generated a long explanation and continued into other
+topics. When I provided an example conversation, the
+model gave a shorter and more direct answer and followed
+the Human and Assistant format. However, the answer was
+still not scientifically accurate, and the model continued
+generating additional questions and answers. This shows
+that the prompt format influences the model's output.

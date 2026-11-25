@@ -1,0 +1,239 @@
+# **The Market for “Lemons”: Quality Uncertainty and the Market Mechanism – George A. Akerlof**
+
+### **1. In which year was the article published?**
+
+The article was published in **1970**, specifically in August 1970.
+
+
+
+**Page reference:** PDF page 1 (publication information).&#x20;
+
+Ackerlof.pdf
+
+
+
+### **2. In which journal was it published?**
+
+The article was published in **The Quarterly Journal of Economics**, Volume 84, Number 3, pp. 488–500, by Oxford University Press.
+
+
+
+**Page reference:** PDF page 1 (publication information).&#x20;
+
+Ackerlof.pdf
+
+
+
+### **3. What are the four main categories of cars described in the article?**
+
+Akerlof identifies four categories of cars:
+
+- New good cars.
+- New bad cars (lemons).
+- Used good cars.
+- Used bad cars (lemons).
+
+The author distinguishes cars according to their age (new or used) and their quality (good or bad).
+
+
+
+**Page reference:** p. 489, Section II.A – The Automobiles Market.&#x20;
+
+Ackerlof.pdf
+
+
+
+### **4. What examples other than used cars does the author discuss?**
+
+The author discusses four main examples and applications:
+
+|   |
+| - |
+
+Example
+
+|   |
+| - |
+
+Explanation
+
+|   |
+| - |
+
+Page reference
+
+|   |
+| - |
+
+Insurance
+
+|   |
+| - |
+
+Adverse selection in insurance markets, particularly medical insurance for people over 65.
+
+|   |
+| - |
+
+pp. 492–494
+
+|   |
+| - |
+
+Employment of minorities
+
+|   |
+| - |
+
+Employers' difficulty in assessing individual qualifications and the role of educational certification.
+
+|   |
+| - |
+
+pp. 494–495
+
+|   |
+| - |
+
+Costs of dishonesty
+
+|   |
+| - |
+
+Dishonest sellers and inferior-quality products can drive legitimate businesses out of the market.
+
+|   |
+| - |
+
+pp. 495–496
+
+|   |
+| - |
+
+Credit markets in underdeveloped countries
+
+|   |
+| - |
+
+Information uncertainty regarding borrowers, investors and creditworthiness, particularly in India.
+
+|   |
+| - |
+
+pp. 497–499
+
+**Page reference:** pp. 492–499, Section III – Examples and Applications.&#x20;
+
+Ackerlof.pdf
+
+Ackerlof.pdf
+
+Ackerlof.pdf
+
+Ackerlof.pdf
+
+
+
+### **5. What institutions does the author identify as counteracting quality uncertainty?**
+
+Akerlof identifies the following institutions:
+
+|   |
+| - |
+
+Institution
+
+|   |
+| - |
+
+How it reduces quality uncertainty
+
+|   |
+| - |
+
+Page reference
+
+|   |
+| - |
+
+Guarantees
+
+|   |
+| - |
+
+Assure buyers of expected quality and transfer risk from buyers to sellers.
+
+|   |
+| - |
+
+p. 499
+
+|   |
+| - |
+
+Brand-name goods
+
+|   |
+| - |
+
+Signal product quality and allow consumers to discourage poor quality by reducing future purchases.
+
+|   |
+| - |
+
+pp. 499–500
+
+|   |
+| - |
+
+Chains
+
+|   |
+| - |
+
+Hotel and restaurant chains provide customers with more predictable quality.
+
+|   |
+| - |
+
+p. 500
+
+|   |
+| - |
+
+Licensing practices
+
+|   |
+| - |
+
+Professional licensing helps establish the qualifications of doctors, lawyers and barbers.
+
+|   |
+| - |
+
+p. 500
+
+|   |
+| - |
+
+Educational and professional certification
+
+|   |
+| - |
+
+Diplomas, academic degrees and other qualifications indicate levels of proficiency.
+
+|   |
+| - |
+
+p. 500
+
+**Page reference:** pp. 499–500, Section IV – Counteracting Institutions.&#x20;
+
+Ackerlof.pdf
+
+Ackerlof.pdf
+
+
+
+**Source note:** All answers are based exclusively on the attached article. The page references follow the original journal pagination (488–500), except for Questions 1 and 2, which refer to the PDF's publication information page. No internet browsing or external sources were used.

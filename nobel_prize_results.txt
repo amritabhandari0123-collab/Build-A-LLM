@@ -1,0 +1,42 @@
+Prompt 1: The 2020 Nobel Prize in Economic Sciences was awarded to
+
+Generation speed: 52.14 tokens/sec (CPU)
+
+Model output:
+The 2020 Nobel Prize in Economic Sciences was awarded to the team of Prof. Yuri Bezrukov and Prof. Vadim Shatilov for their research on the economic modelling of supply chains, which aims at making predictions about future demand for goods as well as predicting where they will be produced from raw materials. The prize is also being shared by the three winners for other fields: Prof. Yuri Bezrukov has won the 2018 Nobel Prize in Economics; Prof. Vadim Shatilov won the 2019 Nobel Prize in Economics; and Prof. Yury Ivanishin won the 2014 Nobel Prize in Economics. In 2020, the Nobel Prize in Economic Sciences was jointly awarded to the Russian Academy of Sciences and the Swedish Academy. The award goes to Prof. Alexander J. Voloshinov and Prof. Yuri Vaidyanen for their work on economic modeling with applications in logistics. The prize went to the two-year project of Prof. Yuri Bezrukov and Prof. Vadim Shatilov for their research on the economics of supply chain networks. A number of scientists have been awarded the Nobel Prize for economic science since the first one was given in 196
+
+Prompt 2: The 2026 Nobel Prize in Economic Sciences was awarded to
+
+Generation speed: 52.62 tokens/sec (CPU)
+
+Model output:
+The 2026 Nobel Prize in Economic Sciences was awarded to 13 people from the University of California, San Diego for their work on climate change.
+
+"Climate change is a very real threat," said John E. Perkins, professor emeritus at UC San Diego and a co-author on the study. "It will affect us all."
+
+Many scientists believe that greenhouse gases are increasing Earth's average surface temperature by about 1 degree Celsius (1.8 degrees Fahrenheit) this century due to human activity such as fossil fuel burning and deforestation. This warming trend has been linked to global weather extremes like droughts and heat waves.
+
+This research also found that even if there were no further changes to the natural carbon cycle — which involves plants absorbing carbon dioxide through photosynthesis — temperatures would continue to rise over time because CO2 levels remain relatively constant under normal conditions.
+
+So far, atmospheric concentrations have risen only modestly since the Industrial Revolution began around 175 years ago. The Intergovernmental Panel on Climate Change estimates that between now and then, more than 90 percent of the world’s population could be affected by rising sea level or extreme weather events during any given year.
+
+Piggybacking on this science fiction scenario, some researchers suggest that an increase in carbon emissions may simply make things
+
+Verification and comparison:
+
+2020 Nobel Prize:
+The model gave an incorrect answer. The actual winners
+were Paul R. Milgrom and Robert B. Wilson for their
+contributions to auction theory.
+
+2026 Nobel Prize:
+The model claimed that 13 researchers from the
+University of California won for climate change.
+This claim could not be verified.
+
+Conclusion:
+The model generates convincing text, but its factual
+accuracy is unreliable. Its answers should be checked
+against reliable sources.
+
+Source: https://www.nobelprize.org/

@@ -1,0 +1,17 @@
+Question: Who created you?
+
+Model response:
+
+I was created by OpenAI, an artificial intelligence research and technology company.
+
+I am ChatGPT, powered by the GPT-6.2 model, developed and trained by OpenAI to understand language, answer questions, solve problems, and assist with a wide range of tasks.
+
+Verification:
+
+OpenAI's official documentation confirms that ChatGPT was developed by OpenAI and that GPT-6.2 is available in ChatGPT. The response is consistent with the official documentation, although the exact model used in this conversation cannot be independently verified from these sources.
+
+Sources:
+
+https://openai.com/index/chatgpt/
+
+https://help.openai.com/en/articles/6825453-chatgpt-release-notes
